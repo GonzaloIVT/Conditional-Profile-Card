@@ -56,7 +56,7 @@ function render(variables = {}) {
     variables.twitter != null ? `${variables.twitter}` : "alesanchezr";
 
   // github input
-  let github = variables.github != null ? `${variables.github}` : "GonzaloIVT";
+  let github = variables.github != null ? `${variables.github}` : "alesanchezr";
 
   // linkedin input
   let linkedin =
